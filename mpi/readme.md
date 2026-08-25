@@ -6,7 +6,7 @@ Para compilar y ejecutar el primer ejemplo en el clúster `mulatona.ccad.unc.edu
 # Cargar el módulo del compilador
 module load gcc/12.2.0
 
-# Cargar el módulo de la librería OpenMP
+# Cargar el módulo de la librería OpenMPI
 module load openmpi
 
 # Compilar
